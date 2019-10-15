@@ -1,13 +1,13 @@
-$body-color: slateblue;
-
 body {
-  color: $body-color;
+  color: slateblue;
   font-family: sans-serif;
 }
-#data{
+
+#data {
   flex: 1;
 }
-#myMap{
+
+#myMap {
   min-height: 100vh;
   flex: 1.6;
 }
